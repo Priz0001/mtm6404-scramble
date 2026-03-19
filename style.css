@@ -1,0 +1,22 @@
+div {
+  padding: 5px 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  align-items: center;
+  margin: 0 auto;
+  font-family: monospace;
+}
+
+.display {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.feedback {
+  height: 15px;
+}
